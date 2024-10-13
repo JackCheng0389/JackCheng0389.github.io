@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jack_Cheng.png"
+  avatar           : "./images/Jack_Cheng.png"
   name             : "Jack Cheng (程天乐)"
   pronouns         : # example: "she/her"  
   bio              : "A Rookie In CV"
