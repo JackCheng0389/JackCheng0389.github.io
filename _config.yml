@@ -27,7 +27,7 @@ author:
   bio              : "A Rookie In CV"
   location         : "Hangzhou, Zhejiang, China"
   employer         : "Zhejiang University"
-  uri              : "https://www.zju.edu.cn/"
+  # uri              : "https://www.zju.edu.cn/"
   email            : "2301028065@qq.com" 
 
   # Academic websites
